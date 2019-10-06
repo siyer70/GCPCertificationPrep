@@ -1,7 +1,3 @@
-git remote add origin https://github.com/siyer70/GCPCertificationPrep.git
-git push -u origin master
-
-
 Compute Engine
 - No upfront investment
 - Consistent performance
